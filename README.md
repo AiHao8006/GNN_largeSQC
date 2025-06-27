@@ -38,7 +38,7 @@ python3 Crosstalk_open/envs/estimator/fit_SmallGraphs_iSWAP.py
 
 the results for test sets will be printed, and the the training curve will be available in `envs/estimator/results_train`, i.e.,
 
-![Training Curve](Crosstalk_open/envs/estimator/results_train/delta_r2_Y.png)
+![Training Curve](Crosstalk_open/envs/estimator/results_train_use/delta_r2_Y.png)
 
 To test the trained evaluator (estimator) on datasets with 30 qubits, you can run
 
