@@ -79,4 +79,21 @@ and the results will be printed.
 
 If you find this code useful, please cite our paper:
 
-Hao Ai and Yu-xi Liu, *Scalable parameter design for superconducting quantum circuits with graph neural networks*, (2025).
+Hao Ai and Yu-xi Liu, *Scalable parameter design for superconducting quantum circuits with graph neural networks*, Phys. Rev. Lett., **135**, 040601 (2025).
+
+```
+@article{yr9d-7z8k,
+  title = {Scalable Parameter Design for Superconducting Quantum Circuits with Graph Neural Networks},
+  author = {Ai, Hao and Liu, Yu-xi},
+  journal = {Phys. Rev. Lett.},
+  volume = {135},
+  issue = {4},
+  pages = {040601},
+  numpages = {7},
+  year = {2025},
+  month = {Jul},
+  publisher = {American Physical Society},
+  doi = {10.1103/yr9d-7z8k},
+  url = {https://link.aps.org/doi/10.1103/yr9d-7z8k}
+}
+```
